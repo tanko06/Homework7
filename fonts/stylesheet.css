@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Early Edition JNL';
+    src: url('EarlyEditionJNL.eot');
+    src: local('Early Edition JNL'), local('EarlyEditionJNL'),
+        url('EarlyEditionJNL.eot?#iefix') format('embedded-opentype'),
+        url('EarlyEditionJNL.woff2') format('woff2'),
+        url('EarlyEditionJNL.woff') format('woff'),
+        url('EarlyEditionJNL.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Early Edition JNL Oblique';
+    src: url('EarlyEditionObliqueJNL.eot');
+    src: local('Early Edition JNL Oblique'), local('EarlyEditionObliqueJNL'),
+        url('EarlyEditionObliqueJNL.eot?#iefix') format('embedded-opentype'),
+        url('EarlyEditionObliqueJNL.woff2') format('woff2'),
+        url('EarlyEditionObliqueJNL.woff') format('woff'),
+        url('EarlyEditionObliqueJNL.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
